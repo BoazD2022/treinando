@@ -1,3 +1,5 @@
+import "../Menu"
+
 const Item = ({item, addItem}) => {
     return (
         <div className="col-sm-6 col-md-5 col-lg-4 item">

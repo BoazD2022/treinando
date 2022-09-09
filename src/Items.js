@@ -26,7 +26,58 @@ const items = [
         desc: "Churros assados na Airfryer",
         img: "https://api.pizzahut.io/v1/content/en-ca/ca-1/images/pizza/pizza.veggie-lovers.48ba54d49ff2257671521b477967633a.1.jpg?width=300",
         price: 5.0
-    }
+    },
+
+   {
+
+    id: 5,
+    name: "Churros Gourmet",
+    desc: "Churros assados na Airfryer",
+    img: "https://api.pizzahut.io/v1/content/en-ca/ca-1/images/pizza/pizza.veggie-lovers.48ba54d49ff2257671521b477967633a.1.jpg?width=300",
+    price: 5.0
+
+
+   },
+ 
+    {
+
+    id: 6,
+    name: "Churros Doce de Leite",
+    desc: "Churros com um cremoso com Doce de Leite",
+    img: "https://api.pizzahut.io/v1/content/en-ca/ca-1/images/pizza/pizza.canadian.67c22dc316f702bf4d992c667d22fbf0.1.jpg?width=300",
+    price: 3.0
+
+    },
+
+    {
+    
+        id: 7,
+    name: "Churros Gourmet",
+    desc: "Churros assados na Airfryer",
+    img: "https://api.pizzahut.io/v1/content/en-ca/ca-1/images/pizza/pizza.veggie-lovers.48ba54d49ff2257671521b477967633a.1.jpg?width=300",
+    price: 5.0
+
+    },
+    
+    {
+        id: 8,
+        name: "Churros Gourmet",
+        desc: "Churros assados na Airfryer",
+        img: "https://api.pizzahut.io/v1/content/en-ca/ca-1/images/pizza/pizza.veggie-lovers.48ba54d49ff2257671521b477967633a.1.jpg?width=300",
+        
+
+    },
+
+   {
+
+    id:9 ,
+    name: "Churros Gourmet",
+    desc: "Churros assados na Airfryer",
+    img: "https://api.pizzahut.io/v1/content/en-ca/ca-1/images/pizza/pizza.veggie-lovers.48ba54d49ff2257671521b477967633a.1.jpg?width=300",
+    
+  
+   },
+
 ];
 
 export default items;

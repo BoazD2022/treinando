@@ -1,4 +1,7 @@
 import Item from "./Item";
+import "../Menu"
+
+
 
 const Menu = ({name, desc, menu, addItem}) => {
     return (
